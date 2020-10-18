@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "pro-c-60",
+    "slug": "snack-945ab062-d0d1-41d8-ba0f-da8c9a783b6c",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.matishakansal.snack945ab062d0d141d8ba0fda8c9a783b6c"
+    }
+  }
+}
